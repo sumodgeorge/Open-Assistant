@@ -6,3 +6,4 @@ loguru == 0.6.0
 pydantic[dotenv] == 1.10.4
 
 uvloop == 0.17.0; os_name != 'nt'   # Faster drop-in replacement for asyncio event loop
+pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
