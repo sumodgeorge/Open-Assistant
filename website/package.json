@@ -52,7 +52,7 @@
     "framer-motion": "^6.5.1",
     "lande": "^1.0.10",
     "lucide-react": "^0.105.0",
-    "next": "13.0.6",
+    "next": "13.5.0",
     "next-auth": "^4.18.6",
     "next-i18next": "^13.0.3",
     "nodemailer": "^6.8.0",
